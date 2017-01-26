@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "json"
+  ],
+  "pluginsConfig": {
+    "json": {
+      "output": "_book/content.json"
+    }
+  }
+}

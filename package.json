@@ -1,0 +1,30 @@
+{
+  "name": "pycontw-reviewer-guide-gitbook",
+  "version": "0.0.1",
+  "description": "審稿指南",
+  "private": true,
+  "devDependencies": {
+    "gitbook": "1.5.0",
+    "gitbook-plugin-json": "0.0.8",
+    "gitbook-plugin-mathjax": "0.0.6",
+    "gitbook-plugin-discourse": "0.0.6",
+    "gitbook-plugin-lexicon": "0.0.6",
+    "google-spreadsheet-download": "*",
+    "gulp": "^3.8.10",
+    "gulp-gh-pages": "^0.4.0"
+  },
+  "scripts": {
+    "test": "npm run build",
+    "build": "gitbook build .",
+    "serve": "gitbook serve .",
+    "deploy": "gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chairco/pycontw-reviewer-guide-gitbook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chairco/pycontw-reviewer-guide-gitbook.git/issues"
+  },
+  "homepage": "https://github.com/chairco/pycontw-reviewer-guide-gitbook.git"
+}
