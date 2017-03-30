@@ -19,7 +19,7 @@ Review 過程中**您的身份都不會公開**。
 第二回合結束時將決定所有講題錄取與否。若最後錄取的講題數不足或超額，將會交由議程組作決定。
 
 ### 結果公布
-Review 結束後，我們會整理第二回合的評分與評論，以匿名的方式寄給投稿者。你若不想公開評論的話，請在該評論取消寄送評論的選項。
+Review 結束後，我們會整理第二回合的評分與評論，以匿名的方式寄給投稿者。您若不想公開評論的話，請在該評論取消寄送評論的選項。
 
 # 審稿注意事項
 + 評分時給予**建設性的回饋**有助於評分的收束，以及修改階段時的參考價值，並讓投稿者有所成長。
@@ -31,6 +31,7 @@ Review 結束後，我們會整理第二回合的評分與評論，以匿名的�
 
 # 審稿細節
 + 語言一共分為：英文演講、中文演講/英文投影片、中文演講/中文投影片、臺灣閩南語。當投稿者選擇**英文演講**請使用英文作為審稿回覆。
++ 本次審稿頁面會出現一個**創新性**與**完整性**兩項指標。僅作為*內部統計*使用，不影響評分結果。
 
 
 
@@ -58,6 +59,6 @@ Review 結束後，我們會整理第二回合的評分與評論，以匿名的�
   -1, +1, -0, -0
 
 
-# Q and A
-I somehow know or can guess who the submitter of a proposal is. Due to the double blind policy In the first stage, there might be a conflict of interest. Am I eligle to review this proposal? 
-In short, you can review those issues as usual. It is a common issue peer-review will face even during the review process of scientific journals. They still review submissions whose author can be easily guessed. All in all, you don’t know the author for sure and there are coincidence all the time.
+# Q & A
+**Q**: 因為某些原因，我能知道或猜得到某個稿件的作者是誰。基於第一階段的身份不公開原則，這可能會有利益衝突，那麼我有資格審查這份稿件嗎？  
+**A**: *簡單來說，您可以如常地審查這些稿件。這個問題甚至在審查科學期刊時也很常見。而他們即使可以很容易地猜到作者是誰，還是會審查這些稿件。總而言之，您沒有辦法 100% 確認作者的身份，而巧合總是會有的。*
